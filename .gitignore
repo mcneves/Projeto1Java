@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/PL5/nbproject/private/
+/PL5/dist/
+/PL5/build/
